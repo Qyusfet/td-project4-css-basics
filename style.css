@@ -29,8 +29,9 @@ body
     color: #5584AC;
     }
 .profile .profile-picture{
-    border-radius: 100%;
-    width: 200px;
+    /* border-radius: 100%; */
+    width: 250px;
+    height: 250px;
     }
 .profile h1{
     color: #1DA1F2;
