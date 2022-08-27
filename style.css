@@ -116,7 +116,7 @@ section
 .footer img{
     width: 20px;
     height: 20px;  
-    padding: 10px;  
+    margin: 10px;  
     }
 .footer .logo{
     display: flex;
